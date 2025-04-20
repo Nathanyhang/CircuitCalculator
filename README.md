@@ -12,7 +12,7 @@ Current Version: V3
 * Parallel and Series equivalent load calculations, supporting a single load type (resistor, capacitor, inductor).
 * Solves all equivalent load values of the circuit based on how the user wants their loads connected.
 * Labels all resistor connections in the form of an equation for all the equivalent loads and equivalent load values of the entire circuit.
-* Console-input based UI.
+* Console-based UI.
 
 
 ## Instructions
