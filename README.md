@@ -11,14 +11,14 @@ Current Version: V3
 
 * Parallel and Series equivalent load calculations, supporting a single load type (resistor, capacitor, inductor).
 * Solves all equivalent load values of the circuit based on how the user wants their loads connected.
-* Labels all resistor connections in the form of an equation for all the equivalent loads and equivalent load values of the entire circuit.
+* Labels all resistor connections as an equation for all the equivalent loads and equivalent load values of the entire circuit.
 * Console-based UI.
 
 
 ## Instructions
 
 ![Sample Circuit Diagram with Resistance Equations](https://raw.githubusercontent.com/Nathanyhang/SimpleResistanceCalculator/master/images/Circuit%20Diagram.png)
-*Figure 1: Sample circuit diagram with load equations and sample input from program.*
+*Figure 1: Sample circuit diagram with load equations and sample input from the program. The green text are sample commands of what you would type in the console to "build" a circuit.*
 
 
 **_The main program of this project is labelled as CircuitCalculator.java, located in src._**
@@ -32,7 +32,7 @@ Current Version: V3
 		R1 R2 R3 P
 		R1 R2 R3 Parallel
 
-    *both statements represents R1//R2//R3. To add circuits, use the same format and given IDs from the console.*
+    *both statements represent R1//R2//R3. To add circuits, use the same format and given IDs from the console.*
 
 3. Type "end" when you have completed all connections.
 4. The following will be outputted to the screen:
