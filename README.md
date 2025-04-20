@@ -35,8 +35,8 @@ Current Version: V3
     *both statements represent R1//R2//R3. To add circuits, use the same format and given IDs from the console.*
 
 3. Type "end" when you have completed all connections.
-4. The following will be outputted to the screen:
-* Equivalent resistance in ohms, farads, or henries.
-* All load IDs and their respective values.
-* Final equivalent load equations with "//" denoting Parallel and "+" denoting Series.
-* All generated load equations while the user were entering their connections.
+4. The following will be displayed as output:
+	* Equivalent resistance in ohms, farads, or henries.
+	* All load IDs and their respective values.
+	* Final equivalent load equations with "//" denoting Parallel and "+" denoting Series.
+	* All generated load equations while the user is entering their circuit connections.
